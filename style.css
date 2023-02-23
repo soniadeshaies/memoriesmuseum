@@ -1,14 +1,15 @@
-@import url('https://fonts.googleapis.com/css2?family=Eater&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barrio&family=Geostar+Fill&family=Stalinist+One&display=swap');
 
 body {
     color: white;
-    font-family: Linographer;
+    font-family: Barrio;
     text-align: center;
     align-content: center;
 }
 
 a {
-  color: black
+  color: black;
+  font-size: 20pt;
 }
 
 a:hover {
@@ -37,7 +38,7 @@ a:hover {
   }
 
 .title {
-    font-size: 20pt;
+    font-size: 50pt;
 }
 
 #video {
@@ -58,6 +59,7 @@ a:hover {
   align-content: center;
   padding-top: 60px;
   color: black;
+  font-size: 30pt;
 }
 
 #art {
@@ -66,6 +68,7 @@ a:hover {
   align-content: center;
   padding-top: 60px;
   color: black;
+  font-size: 30pt;
 }
 
 #glitch {
@@ -74,6 +77,7 @@ a:hover {
   align-content: center;
   padding-top: 60px;
   color: white;
+  font-size: 30pt;
 }
 
 #animation {
@@ -82,6 +86,7 @@ a:hover {
   align-content: center;
   padding-top: 60px;
   color: white;
+  font-size: 30pt;
 }
 
 #memories a:hover {
