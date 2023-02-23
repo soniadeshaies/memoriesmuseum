@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Covered+By+Your+Grace&display=swap');
+
+body {
+    color: white;
+    font-family: Linographer;
+    text-align: center;
+    align-content: center;
+}
+
+a {
+  color: black
+}
+
+a:hover {
+  color: hotpink;
+}
+
+#brain {
+  background-image: url('img/background2.png');
+    text-align: center;
+    align-content: center;
+    padding-top: 8%;
+}
+
+#brain a:hover {
+  opacity: 70%;
+}
+
+.column {
+    float: left;
+    width: 50%;
+  }
+  
+  .row:after {
+    display: table;
+    clear: both;
+  }
+
+.title {
+    font-size: 20pt;
+}
+
+#video {
+  width: 100vw;
+  height: 100vh;
+  object-fit: cover;
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  z-index: -1;
+}
+
+#imagination {
+  background-image: url('img/background_lines-01.png');
+  text-align: center;
+  align-content: center;
+  padding-top: 60px;
+  color: black;
+}
+
+#art {
+  background-image: url('img/background_leaf.png');
+  text-align: center;
+  align-content: center;
+  padding-top: 60px;
+  color: black;
+}
+
+#glitch {
+  background-image: url('img/background_presidio.png');
+  text-align: center;
+  align-content: center;
+  padding-top: 60px;
+  color: white;
+}
+
+#animation {
+  background-image: url('img/background_red.png');
+  text-align: center;
+  align-content: center;
+  padding-top: 60px;
+  color: white;
+}
+
+#memories a:hover {
+  opacity: 70%;
+}
+
+.h1 {
+  background-color: white;
+  color: black;
+}
+
+#link {
+  color: white;
+}
