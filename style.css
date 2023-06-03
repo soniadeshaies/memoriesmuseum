@@ -102,6 +102,10 @@ a:hover {
   color: black;
 }
 
+#mem {
+    font-size: 30pt;
+}
+
 #link {
   color: white;
 }
